@@ -125,10 +125,7 @@ Não precisa instalar nada nem ter internet (a fonte é opcional; há fontes de 
 
 | Integrante | Responsabilidade inicial |
 |---|---|
-| (nome 1) | Interface e estilos (`style.css`) |
-| (nome 2) | Regras de pontuação e classificação (`calc()`, `table()`) |
-| (nome 3) | Confrontos, histórico e testes (`gen()`, histórico) |
-
-## 🤖 Uso de IA
-
-Ferramentas de IA foram usadas como apoio no desenvolvimento, conforme permitido no enunciado. Todos os integrantes devem compreender e saber explicar o código.
+| (Kelvyn) | Interface e estilos (`style.css`) |
+| (Giovanna) | Regras de pontuação e classificação (`calc()`, `table()`) |
+| (Francine) | Confrontos, histórico e testes (`gen()`, histórico) |
+| (Raul) | Interface.(`style.css`) |
