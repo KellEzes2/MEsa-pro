@@ -128,4 +128,4 @@ Não precisa instalar nada nem ter internet (a fonte é opcional; há fontes de 
 | (Kelvyn) | Interface e estilos (`style.css`) |
 | (Giovanna) | Regras de pontuação e classificação (`calc()`, `table()`) |
 | (Francine) | Confrontos, histórico e testes (`gen()`, histórico) |
-| (Raul) | Interface e estilos (``style.css`) | 
+| (Raul) | Interface e estilos (`style.css`) | 
